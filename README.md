@@ -1,1 +1,3 @@
 # unit13-challenge-new
+In this assignment we used Amazon Lex and Lambda to create a chat bot that validated user inputs and then recommended an investment portfolio.
+The assignment required that the user enter their age and that it be less than 65 and greater than zero. I altered this slightly because the investment portfolio was for retirement and to contribute to a retirement account the user must have earned income. As such, I adjusted the age so that the user must be at least 18 years old.
